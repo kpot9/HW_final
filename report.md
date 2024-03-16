@@ -142,7 +142,7 @@
 
 ### Подробный отчет
 
-Подробный отчет находится в файле [result_for_list_software.txt]().  
+Подробный отчет находится в файле [result_for_list_software.txt](result_for_list_software.txt).  
 (Пример, для `nginx`) 
 
 nginx v. 1.14.0  
