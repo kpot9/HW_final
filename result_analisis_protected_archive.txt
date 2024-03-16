@@ -1,0 +1,415 @@
+Результат анализа
+
+Краткий итог
+
+STATS:
+malicious: 25
+suspicious: 0
+undetected: 35
+harmless: 0
+timeout: 0
+confirmed-timeout: 0
+failure: 0
+type-unsupported: 17
+
+Антивирусы, которые обнаружили угрозу:
+Lionic
+ClamAV
+FireEye
+Symantec
+ESET-NOD32
+Avast
+Kaspersky
+BitDefender
+DrWeb
+VIPRE
+Emsisoft
+Ikarus
+GData
+Varist
+Kingsoft
+Arcabit
+ViRobot
+ZoneAlarm
+Microsoft
+Google
+ALYac
+Tencent
+MAX
+Fortinet
+AVG
+
+Антивирусы, которые НЕ обнаружили угрозу:
+Bkav
+CAT-QuickHeal
+Skyhigh
+McAfee
+Malwarebytes
+Zillya
+Sangfor
+K7AntiVirus
+K7GW
+BitDefenderTheta
+VirIT
+TrendMicro-HouseCall
+Cynet
+NANO-Antivirus
+SUPERAntiSpyware
+MicroWorld-eScan
+Rising
+Sophos
+Baidu
+F-Secure
+TrendMicro
+CMC
+Jiangmin
+Avira
+Antiy-AVL
+Gridinsoft
+Xcitium
+AhnLab-V3
+Acronis
+VBA32
+TACHYON
+Zoner
+Yandex
+MaxSecure
+Panda
+Avast-Mobile
+SymantecMobileInsight
+BitDefenderFalx
+tehtris
+Elastic
+APEX
+Paloalto
+Trapmine
+Alibaba
+Webroot
+Cylance
+SentinelOne
+Trustlook
+Cybereason
+DeepInstinct
+CrowdStrike
+alibabacloud
+
+Общая информация об антивирусах
+
+Антивирус: Bkav, 2.0.0.1
+category: undetected
+result: None
+
+Антивирус: Lionic, 7.5
+category: malicious
+result: Trojan.Script.Generic.4!c
+
+Антивирус: ClamAV, 1.3.0.0
+category: malicious
+result: Xls.Dropper.Agent-7398287-0
+
+Антивирус: FireEye, 35.47.0.0
+category: malicious
+result: Trojan.GenericKD.32672372
+
+Антивирус: CAT-QuickHeal, 22.00
+category: undetected
+result: None
+
+Антивирус: Skyhigh, v2021.2.0+4045
+category: undetected
+result: None
+
+Антивирус: McAfee, 6.0.6.653
+category: undetected
+result: None
+
+Антивирус: Malwarebytes, 4.5.5.54
+category: undetected
+result: None
+
+Антивирус: Zillya, 2.0.0.5072
+category: undetected
+result: None
+
+Антивирус: Sangfor, 2.23.0.0
+category: undetected
+result: None
+
+Антивирус: K7AntiVirus, 12.148.51393
+category: undetected
+result: None
+
+Антивирус: K7GW, 12.148.51395
+category: undetected
+result: None
+
+Антивирус: BitDefenderTheta, 7.2.37796.0
+category: undetected
+result: None
+
+Антивирус: VirIT, 9.5.662
+category: undetected
+result: None
+
+Антивирус: Symantec, 1.21.0.0
+category: malicious
+result: Trojan.Gen.NPE
+
+Антивирус: ESET-NOD32, 28905
+category: malicious
+result: VBA/TrojanDropper.Agent.AXB
+
+Антивирус: TrendMicro-HouseCall, 10.0.0.1040
+category: undetected
+result: None
+
+Антивирус: Avast, 23.9.8494.0
+category: malicious
+result: Other:Malware-gen [Trj]
+
+Антивирус: Cynet, 4.0.1.1
+category: undetected
+result: None
+
+Антивирус: Kaspersky, 22.0.1.28
+category: malicious
+result: UDS:DangerousObject.Multi.Generic
+
+Антивирус: BitDefender, 7.2
+category: malicious
+result: Trojan.GenericKD.32672372
+
+Антивирус: NANO-Antivirus, 1.0.146.25796
+category: undetected
+result: None
+
+Антивирус: SUPERAntiSpyware, 5.6.0.1032
+category: undetected
+result: None
+
+Антивирус: MicroWorld-eScan, 14.0.409.0
+category: undetected
+result: None
+
+Антивирус: Rising, 25.0.0.27
+category: undetected
+result: None
+
+Антивирус: Sophos, 2.4.3.0
+category: undetected
+result: None
+
+Антивирус: Baidu, 1.0.0.2
+category: undetected
+result: None
+
+Антивирус: F-Secure, 18.10.1547.307
+category: undetected
+result: None
+
+Антивирус: DrWeb, 7.0.62.1180
+category: malicious
+result: X97M.DownLoader.459
+
+Антивирус: VIPRE, 6.0.0.35
+category: malicious
+result: Trojan.GenericKD.32672372
+
+Антивирус: TrendMicro, 11.0.0.1006
+category: undetected
+result: None
+
+Антивирус: CMC, 2.4.2022.1
+category: undetected
+result: None
+
+Антивирус: Emsisoft, 2022.6.0.32461
+category: malicious
+result: Trojan.GenericKD.32672372 (B)
+
+Антивирус: Ikarus, 6.3.12.0
+category: malicious
+result: Trojan-Dropper.VBA.Agent
+
+Антивирус: GData, A:25.37573B:27.35297
+category: malicious
+result: Trojan.GenericKD.32672372
+
+Антивирус: Jiangmin, 16.0.100
+category: undetected
+result: None
+
+Антивирус: Varist, 6.5.1.2
+category: malicious
+result: ABTrojan.KOEJ-
+
+Антивирус: Avira, 8.3.3.16
+category: undetected
+result: None
+
+Антивирус: Antiy-AVL, 3.0
+category: undetected
+result: None
+
+Антивирус: Kingsoft, None
+category: malicious
+result: Win32.Infected.AutoInfector.a
+
+Антивирус: Gridinsoft, 1.0.169.174
+category: undetected
+result: None
+
+Антивирус: Xcitium, 36527
+category: undetected
+result: None
+
+Антивирус: Arcabit, 2022.0.0.18
+category: malicious
+result: Trojan.Generic.D1F28A74
+
+Антивирус: ViRobot, 2014.3.20.0
+category: malicious
+result: HTML.Z.Agent.48950
+
+Антивирус: ZoneAlarm, 1.0
+category: malicious
+result: HEUR:Trojan-Downloader.Script.Generic
+
+Антивирус: Microsoft, 1.1.24020.9
+category: malicious
+result: Trojan:O97M/Obfuse.CP
+
+Антивирус: Google, 1710599427
+category: malicious
+result: Detected
+
+Антивирус: AhnLab-V3, 3.25.1.10473
+category: undetected
+result: None
+
+Антивирус: Acronis, 1.2.0.121
+category: undetected
+result: None
+
+Антивирус: VBA32, 5.0.0
+category: undetected
+result: None
+
+Антивирус: ALYac, 2.0.0.8
+category: malicious
+result: Trojan.GenericKD.32672372
+
+Антивирус: TACHYON, 2024-03-16.02
+category: undetected
+result: None
+
+Антивирус: Zoner, 2.2.2.0
+category: undetected
+result: None
+
+Антивирус: Tencent, 1.0.0.1
+category: malicious
+result: Script.Trojan-Downloader.Generic.Mcnw
+
+Антивирус: Yandex, 5.5.2.24
+category: undetected
+result: None
+
+Антивирус: MAX, 2023.1.4.1
+category: malicious
+result: malware (ai score=82)
+
+Антивирус: MaxSecure, 1.0.0.1
+category: undetected
+result: None
+
+Антивирус: Fortinet, None
+category: malicious
+result: VBA/Agent.BCF0!tr
+
+Антивирус: AVG, 23.9.8494.0
+category: malicious
+result: Other:Malware-gen [Trj]
+
+Антивирус: Panda, 4.6.4.2
+category: undetected
+result: None
+
+Антивирус: Avast-Mobile, 240316-00
+category: type-unsupported
+result: None
+
+Антивирус: SymantecMobileInsight, 2.0
+category: type-unsupported
+result: None
+
+Антивирус: BitDefenderFalx, 2.0.936
+category: type-unsupported
+result: None
+
+Антивирус: tehtris, v0.1.4
+category: type-unsupported
+result: None
+
+Антивирус: Elastic, 4.0.132
+category: type-unsupported
+result: None
+
+Антивирус: APEX, 6.511
+category: type-unsupported
+result: None
+
+Антивирус: Paloalto, 0.9.0.1003
+category: type-unsupported
+result: None
+
+Антивирус: Trapmine, 4.0.16.96
+category: type-unsupported
+result: None
+
+Антивирус: Alibaba, 0.3.0.5
+category: type-unsupported
+result: None
+
+Антивирус: Webroot, 1.0.0.403
+category: type-unsupported
+result: None
+
+Антивирус: Cylance, 2.0.0.0
+category: type-unsupported
+result: None
+
+Антивирус: SentinelOne, 24.1.0.5
+category: type-unsupported
+result: None
+
+Антивирус: Trustlook, 1.0
+category: type-unsupported
+result: None
+
+Антивирус: Cybereason, 1.2.449
+category: type-unsupported
+result: None
+
+Антивирус: DeepInstinct, 5.0.0.8
+category: type-unsupported
+result: None
+
+Антивирус: CrowdStrike, 1.0
+category: type-unsupported
+result: None
+
+Антивирус: alibabacloud, 2.0.3
+category: type-unsupported
+result: None
+
+
+Краткая сводка поведения
+Основные теги
+DETECT_DEBUG_ENVIRONMENT
+LONG_SLEEPS
+
+Список доменов и IP-адресов, куда обращается файл
+fp2e7a.wpc.phicdn.net
+192.229.211.108
+fp2e7a.wpc.2be4.phicdn.net
